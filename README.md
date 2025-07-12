@@ -1,4 +1,4 @@
-# Adding OUs Users and Groups
+# Adding OUs Users and Groups 🧑‍🧑‍🧒
 -This lab illustrates how to create an **OU**, a **Group**, a **User** and how to link that user to a group
 ### Step 1: Adding Organizational Units
 - To add a new **Organizational Unit**, click on **Tools** on the top right of the **Server Manager** -> Click on **Active Directory Users and Groups** -> **Right Click** on the **cyber.local** domain -> **New** -> **Organizational Unit**, and name it what you please.
