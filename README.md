@@ -9,7 +9,7 @@
 - Review the configurations for the newly created **User** and select **Finish**
 ![Loom Screenshot 2025-06-06 at 08 40 18](https://github.com/user-attachments/assets/02e912c7-2c35-4b05-8512-0141fab5bfbc)
 ![Loom Screenshot 2025-06-06 at 08 41 00](https://github.com/user-attachments/assets/e6572c9d-362f-4422-ac61-67938b8162a8)
-## Demo Videos
+## Demo Videos🎥
 -[OU Demo](https://www.loom.com/share/45d9b499dfbb46e9a7f5ce8e8efc8e31?sid=e33c9676-5cc2-47ba-82da-0197373c2d8c)
 
 
