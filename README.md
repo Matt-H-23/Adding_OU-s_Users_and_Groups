@@ -2,13 +2,13 @@
 -This lab illustrates how to create an **OU**, a **Group**, a **User** and how to link that user to a group
 ### Step 1: Adding Organizational Units
 - To add a new **Organizational Unit**, click on **Tools** on the top right of the **Server Manager** -> Click on **Active Directory Users and Groups** -> **Right Click** on the **cyber.local** domain -> **New** -> **Organizational Unit**, and name it what you please.
-![Loom Screenshot 2025-06-06 at 08 37 34](https://github.com/user-attachments/assets/b79230cc-2e4d-404f-8745-352e8ac74d3e)
+![Loom Screenshot 2025-06-06 at 08 37 34](AD1.png)
 ### Step 2: Adding Users and Groups
 - In the newly created **OU** right click in the empty space -> Click **New** -> **Group** and name it as you please
 - To create a new **User** in the **Sales** **OU**, right click in the empty space again -> **New** -> **User** (name it how you see fit) -> Click **Next** -> Create a generic **Password** for the User(leave the option on for the user needing to create a new password)
 - Review the configurations for the newly created **User** and select **Finish**
-![Loom Screenshot 2025-06-06 at 08 40 18](https://github.com/user-attachments/assets/02e912c7-2c35-4b05-8512-0141fab5bfbc)
-![Loom Screenshot 2025-06-06 at 08 41 00](https://github.com/user-attachments/assets/e6572c9d-362f-4422-ac61-67938b8162a8)
+![Loom Screenshot 2025-06-06 at 08 40 18](user2.png)
+![Loom Screenshot 2025-06-06 at 08 41 00](newuser3.png)
 ## Demo Videos🎥
 -[OU Demo](https://www.loom.com/share/45d9b499dfbb46e9a7f5ce8e8efc8e31?sid=e33c9676-5cc2-47ba-82da-0197373c2d8c)
 
